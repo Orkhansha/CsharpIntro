@@ -1,0 +1,13 @@
+C:\Users\Orxan\Desktop\IntroCSharp\Programmer\bin\Debug\netcoreapp3.1\Programmer.exe
+C:\Users\Orxan\Desktop\IntroCSharp\Programmer\bin\Debug\netcoreapp3.1\Programmer.deps.json
+C:\Users\Orxan\Desktop\IntroCSharp\Programmer\bin\Debug\netcoreapp3.1\Programmer.runtimeconfig.json
+C:\Users\Orxan\Desktop\IntroCSharp\Programmer\bin\Debug\netcoreapp3.1\Programmer.runtimeconfig.dev.json
+C:\Users\Orxan\Desktop\IntroCSharp\Programmer\bin\Debug\netcoreapp3.1\Programmer.dll
+C:\Users\Orxan\Desktop\IntroCSharp\Programmer\bin\Debug\netcoreapp3.1\Programmer.pdb
+C:\Users\Orxan\Desktop\IntroCSharp\Programmer\obj\Debug\netcoreapp3.1\Programmer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orxan\Desktop\IntroCSharp\Programmer\obj\Debug\netcoreapp3.1\Programmer.AssemblyInfoInputs.cache
+C:\Users\Orxan\Desktop\IntroCSharp\Programmer\obj\Debug\netcoreapp3.1\Programmer.AssemblyInfo.cs
+C:\Users\Orxan\Desktop\IntroCSharp\Programmer\obj\Debug\netcoreapp3.1\Programmer.csproj.CoreCompileInputs.cache
+C:\Users\Orxan\Desktop\IntroCSharp\Programmer\obj\Debug\netcoreapp3.1\Programmer.dll
+C:\Users\Orxan\Desktop\IntroCSharp\Programmer\obj\Debug\netcoreapp3.1\Programmer.pdb
+C:\Users\Orxan\Desktop\IntroCSharp\Programmer\obj\Debug\netcoreapp3.1\Programmer.genruntimeconfig.cache
